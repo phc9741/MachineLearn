@@ -2,7 +2,11 @@ import pandas as pd
 import numpy as np
 
 """
-Pierre Hau Cruikshank
+author: Pierre Hau Cruikshank
+
+Columbia University
+
+
 
 """
 

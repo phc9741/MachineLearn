@@ -18,6 +18,8 @@ from sklearn.datasets.samples_generator import make_blobs
 """
 AUthor: Pierre Hau Cruikshank
         Columbia University
+
+Comments: This is QMSS Machine Learning for Social Science homework 03
         
 """
 
